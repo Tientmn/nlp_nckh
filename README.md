@@ -1,6 +1,6 @@
-# Vietnamese Review Sentiment Analysis
+# Hệ thống phân tích cảm xúc tiếng Việt ứng dụng cho bình luận trên sàn thương mại điện tử
 
-Phân tích cảm xúc đánh giá tiếng Việt theo 5 mức độ: `very_negative` · `negative` · `neutral` · `positive` · `very_positive`
+Phân tích cảm xúc theo 5 mức độ: `very_negative` · `negative` · `neutral` · `positive` · `very_positive`
 
 <p align="center">
   <img src="media/gui.gif" alt="Demo GUI" width="1000">
