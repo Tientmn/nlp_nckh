@@ -8,17 +8,6 @@ Phân tích cảm xúc đánh giá tiếng Việt theo 5 mức độ: `very_nega
 
 ---
 
-## Các mô hình
-
-| Mô hình | Framework | Python |
-|---|---|---|
-| TF-IDF + Logistic Regression / LinearSVC | scikit-learn | 3.10 |
-| BiLSTM | TensorFlow 2.21 | 3.11 |
-| PhoBERT (fine-tuned) | PyTorch + HuggingFace | 3.10 |
-| Local LLM | Ollama | 3.10 |
-
----
-
 ## Cài đặt
 
 ```bash
